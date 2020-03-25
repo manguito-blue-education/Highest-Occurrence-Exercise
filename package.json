@@ -1,0 +1,17 @@
+{
+  "name": "activity_6_highest_ocurrence",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Hackademy Activity 6",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test-1": "jest findHighestOcurrence.test.js",
+    "test-2": "jest findHighestOcurrenceExtreme.test.js"
+  },
+  "author": "Rodrigo Medina - r@manguitoblue.io",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
