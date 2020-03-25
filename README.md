@@ -1,7 +1,7 @@
 # Highest Ocurrence
 
 Write a function that receives an array with elements of **any kind** and return an array of the most repeated element in the array.
-If more than one element has the same number of appearances, return al the elements (order not important). 
+If more than one element has the same number of appearances, return all the elements (order not important). 
 Try to avoid the use of `for`.
 
 You should write the code inside the curly braces, where it says `Your amazing code here`.
